@@ -1,0 +1,33 @@
+body {
+  width: 1440px;
+  height: 1594px;
+  background: #FFF;
+}
+
+header {
+  margin-top: 24px;
+}
+
+.div1 {
+  margin-left: 99px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.div2 {
+  padding-left: 626px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+li {
+  display: inline-block;
+  vertical-align: middle;
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 50px;
+}/*# sourceMappingURL=globall.css.map */
